@@ -1,0 +1,38 @@
+.container{
+    margin-bottom: 100px;
+}
+.lightgray-bg{
+    background-color:white;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 50px 50px;
+    text-align: justify;
+}
+.price{
+    color: white;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+   
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    text-align: center;
+}
+.sanjida{
+    text-align: center;
+}
